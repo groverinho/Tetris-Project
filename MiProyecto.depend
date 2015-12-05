@@ -1,0 +1,89 @@
+# depslib dependency file v1.0
+1320938740 source:c:\users\admin\desktop\miproyecto\miniwin.cpp
+	<fstream>
+	<sstream>
+	<queue>
+	<math.h>
+	<process.h>
+	<windows.h>
+	<windowsx.h>
+	"miniwin.h"
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+	<queue>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xos.h>
+	<X11/Xatom.h>
+	<X11/keysym.h>
+	"miniwin.h"
+
+1320938740 c:\users\admin\desktop\miproyecto\miniwin.h
+	<iostream>
+
+1320938740 source:c:\users\microsof\desktop\miproyecto\miniwin.cpp
+	<fstream>
+	<sstream>
+	<queue>
+	<math.h>
+	<process.h>
+	<windows.h>
+	<windowsx.h>
+	"miniwin.h"
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+	<queue>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xos.h>
+	<X11/Xatom.h>
+	<X11/keysym.h>
+	"miniwin.h"
+
+1320938740 c:\users\microsof\desktop\miproyecto\miniwin.h
+	<iostream>
+
+1391273257 source:c:\users\microsof\desktop\miproyecto\tetris.cpp
+	<cstdlib>
+	<ctime>
+	"miniwin.h"
+	<windows.h>
+	<sstream>
+	<string>
+
+1440061048 source:c:\users\grover irusta\desktop\miproyecto\miniwin.cpp
+	<fstream>
+	<sstream>
+	<queue>
+	<math.h>
+	<process.h>
+	<windows.h>
+	<windowsx.h>
+	"miniwin.h"
+	<cstdio>
+	<cstdlib>
+	<iostream>
+	<string>
+	<queue>
+	<X11/Xlib.h>
+	<X11/Xutil.h>
+	<X11/Xos.h>
+	<X11/Xatom.h>
+	<X11/keysym.h>
+	"miniwin.h"
+
+1440061050 c:\users\grover irusta\desktop\miproyecto\miniwin.h
+	<iostream>
+
+1440061076 source:c:\users\grover irusta\desktop\miproyecto\tetris.cpp
+	<cstdlib>
+	<ctime>
+	"miniwin.h"
+	<windows.h>
+	<sstream>
+	<string>
+
